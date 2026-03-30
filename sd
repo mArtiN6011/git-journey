@@ -1,0 +1,55 @@
+[33mcommit 1bd2bfd1588a39401339409011843eb3f2bd614e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdeV[m[33m)[m
+Merge: ad1e6e0 c95dbba
+Author: Martin <a.martin4001@gmail.com>
+Date:   Mon Mar 30 13:24:57 2026 +0200
+
+    Mege conflict solved
+
+[33mcommit ad1e6e055ffda358628ec68d7f5302bec69c7883[m
+Author: Martin <a.martin4001@gmail.com>
+Date:   Mon Mar 30 13:21:38 2026 +0200
+
+    Edited four.txt '444' :()
+
+[33mcommit c95dbbac920d04d4727b0eb2a002058a17ca9147[m[33m ([m[1;32mstaging[m[33m)[m
+Author: Martin <a.martin4001@gmail.com>
+Date:   Mon Mar 30 13:20:29 2026 +0200
+
+    Edited the four.txt to make an erroR :))
+
+[33mcommit 561e2f7f2a3716f25b101f8cac58eda24be42995[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 09c36e0 a4fdfd5
+Author: Martin <a.martin4001@gmail.com>
+Date:   Mon Mar 30 13:14:23 2026 +0200
+
+    merging main into deV
+
+[33mcommit a4fdfd5209f74c5497637b687da77bf210262519[m
+Author: Martin <a.martin4001@gmail.com>
+Date:   Mon Mar 30 13:13:06 2026 +0200
+
+    I edited four.txt and added additional 4
+
+[33mcommit 09c36e0e19d8f8740089dc7f6ae53c9f20500872[m
+Author: Martin <a.martin4001@gmail.com>
+Date:   Mon Mar 30 13:04:53 2026 +0200
+
+    I created three and added 'three' inside
+
+[33mcommit 33c580c51da60d0c997fa559ec636f5c831321c9[m
+Author: Martin <a.martin4001@gmail.com>
+Date:   Mon Mar 30 12:43:01 2026 +0200
+
+    I have made some changes, Hooray!
+
+[33mcommit 750d22f51ea593ce782240db37e29fb1188f7eda[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mArtiN6011 <a.martin4001@gmail.com>
+Date:   Mon Mar 30 11:52:37 2026 +0200
+
+    Create two.txt
+
+[33mcommit e52f848f0d70e3a0e433c63528d37985d237cfb3[m
+Author: mArtiN6011 <a.martin4001@gmail.com>
+Date:   Mon Mar 30 11:51:51 2026 +0200
+
+    Create one.txt with "one" as initial content
